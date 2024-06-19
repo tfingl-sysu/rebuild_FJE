@@ -11,5 +11,5 @@ python main.py -f <json file> -s <tree/rectangle> -i <none/poker/music>
 python main.py -f test.json -s tree -i poker
 ```
 得到如下结果：
-![alt text](image.png)
+![alt text](image.png)  
 总的来说与之前代码的变化就是多了个迭代器并转换了一下思路
